@@ -5,3 +5,5 @@ This project is a full-stack MongoDB analytics platform built around real-world 
 
 The core of the system is a suite of advanced analytical queries written in Python using MongoDB's aggregation pipeline. These include logic for detecting booking gaps, finding underrepresented neighborhoods, analyzing monthly availability trends, and identifying returning guests. All queries were designed, tested, and documented by me as part of a standalone prototype system. The project demonstrates my ability to handle both the backend data architecture and the application-level logic necessary to extract actionable insights from complex datasets.
 
+Results and Queries in: 
+ [Final Presentation Slides](documents/presentation.pdf)
